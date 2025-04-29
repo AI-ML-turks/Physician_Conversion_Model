@@ -5,4 +5,7 @@ The Physician Conversion Model aims to predict the likelihood of a healthcare pr
 
 This repository is not only focused on building the predictive model but also on developing an end-to-end scalable, production-ready AI/ML solution.
 
-Work Started
+# Tasks
+- Harshit: to review the notebooks pipeline and add comments so that it becomes easy to teach
+- Harshit: to prepare a flow for the streamlit application 
+- Asheesh: Once flow is finalized, modify the streamlit application to enhance the UX
