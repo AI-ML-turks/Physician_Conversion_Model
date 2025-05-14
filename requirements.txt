@@ -33,3 +33,4 @@ nbclient
 lightgbm==4.6.0
 hyperopt
 evidently
+mlflow==2.22.0

@@ -1,0 +1,20 @@
+artifact_path: model
+flavors:
+  lightgbm:
+    code: null
+    data: model.lgb
+    lgb_version: 4.6.0
+    model_class: lightgbm.basic.Booster
+  python_function:
+    data: model.lgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.lightgbm
+    python_version: 3.10.16
+mlflow_version: 2.22.0
+model_size_bytes: 51999
+model_uuid: f02d9601370941408736711df4262cb9
+prompts: null
+run_id: aa8751661144497bbd95c3c8a9fdcd1c
+utc_time_created: '2025-05-14 17:53:05.535281'
