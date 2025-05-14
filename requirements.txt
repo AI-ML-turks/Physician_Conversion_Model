@@ -30,6 +30,6 @@ tqdm==4.66.1
 xgboost==1.7.6
 jupyterlab
 nbclient
-lightgbm
+lightgbm==4.6.0
 hyperopt
 evidently
