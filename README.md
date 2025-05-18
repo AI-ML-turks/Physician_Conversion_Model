@@ -9,3 +9,6 @@ This repository is not only focused on building the predictive model but also on
 - Harshit: to review the notebooks pipeline and add comments so that it becomes easy to teach
 - Harshit: to prepare a flow for the streamlit application 
 - Asheesh: Once flow is finalized, modify the streamlit application to enhance the UX
+
+# MLFLOW Command:
+mlflow server --backend-store-uri sqlite:///E:/Harshit/proj_1/Physician_Conversion_Model/mlflow/mlflow.db --default-artifact-root file:///E:/Harshit/proj_1/Physician_Conversion_Model/mlflow/mlruns --host 0.0.0.0 --port 5000

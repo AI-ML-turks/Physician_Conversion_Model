@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Harshit/proj_1/Physician_Conversion_Model/mlruns/968408685076302314/fcf698f52f2d4bd4997c7b93505c52f1/artifacts
+end_time: 1747552706626
+entry_point_name: ''
+experiment_id: '968408685076302314'
+lifecycle_stage: active
+run_id: fcf698f52f2d4bd4997c7b93505c52f1
+run_name: model_run
+run_uuid: fcf698f52f2d4bd4997c7b93505c52f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747552605713
+status: 3
+tags: []
+user_id: Admin
